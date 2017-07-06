@@ -1,3 +1,6 @@
 eclipse.preferences.version=1
 encoding//src/main/java=UTF-8
+encoding//src/script/startplatecount4rangdata.sh=ISO-8859-1
+encoding//src/script/startyyyymm4alldata.sh=ISO-8859-1
+encoding//src/script/startyyyymmdd4rangdata.sh=ISO-8859-1
 encoding//src/test/java=UTF-8

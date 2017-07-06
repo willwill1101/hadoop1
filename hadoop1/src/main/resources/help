@@ -1,3 +1,6 @@
-hadoop jar yangxmr-with-dependencies.jar hadoop.hbase.ReadHFileJob
-hadoop jar yangxmr-with-dependencies.jar hadoop.hbase.ReadHFileJob4FiledImage
-hadoop jar yangxmr-with-dependencies.jar hadoop.hbase.ReadHFileJob4Image
+hadoop -cp yangxmr-with-dependencies.jar hadoop.hbase.ReadHFileJob
+hadoop -cp yangxmr-with-dependencies.jar hadoop.hbase.ReadHFileJob4FiledImage
+hadoop -cp yangxmr-with-dependencies.jar hadoop.hbase.ReadHFileJob4Image
+
+
+hadoop -cp ./hadoop1-0.0.1-SNAPSHOT-jar-with-dependencies.jar  com.yang.hbase2es.Hbase2es hbase2esjob2 job2
